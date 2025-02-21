@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/otryush37">
+    <img height="20" src="https://komarev.com/ghpvc/?username=otryush37" />
+  </a>
+  <a href="https://github.com/otryush37">
+    <img height="20" src="https://img.shields.io/github/followers/otryush37?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/otryush37">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/otryush37/posts.svg" />
+  </a>
+  <a href="http://qiita.com/otryush37">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/otryush37/contributions.svg" />
+  </a>
+</p>
